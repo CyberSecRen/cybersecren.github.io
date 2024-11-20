@@ -13,7 +13,7 @@ urls:
     - text: About
       url: /about
     - text: Projects
-      url: /projects
+      url: /blog
     - #text:
       #url:
     - #text:
