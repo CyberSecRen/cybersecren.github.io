@@ -4,16 +4,16 @@ title:  "Wireshark PCAP Analysis Part Two"
 summary: "Using Wireshark to Analyse Packet Activity"
 author: Renato Ferreira
 date: '2024-11-20 14:35:23 +0530'
-category: Packet Analysis
+category: Packet_Analysis
 thumbnail: /assets/img/posts/WiresharkThumbnail.png
-keywords: Wireshark, PCAP, analysis
+keywords: Wireshark, PCAP, analysis, packet analysis
 permalink: /blog/Wireshark2/
 usemathjax: true
 ---
 
 <br><br>
 
-# Packet Capture Analysis Part Two
+# Wireshark Packet Capture Analysis Part Two
 <br><br>
 This exercise was provided by Security Blue Team for their Blue Team Junior Analyst certification.
 <br><br>
