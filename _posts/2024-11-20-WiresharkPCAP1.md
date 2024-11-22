@@ -77,6 +77,7 @@ There are 90 packets displayed with these filters and so that means that there w
 ##### Question 4: What is the IP address of the host which sent the most number of bytes?
 
 &nbsp;&nbsp;&nbsp;&nbsp;In order to find the IP address of the host which sent the most number of bytes we must use the Statistics tab and go to Endpoints. In the IPv4 tab within the Endpoints window, it is possible to sort the number of “Tx Bytes” (Transmitted bytes) by clicking on the tab to sort it into descending order. This shows that 115.178.9.18 sent the most bytes at 2MB.
-<br><br>
+<br>
 
 ![img-description](/assets/img/posts/WiresharkIMG8.png)
+<br>
