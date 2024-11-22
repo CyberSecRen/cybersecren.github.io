@@ -30,6 +30,7 @@ This exercise was provided by Security Blue Team for their Blue Team Junior Anal
 <br>
 
 ##### Question 1: Which protocol was used over port 3942?
+<br>
 
 Using the display filter `udp.port == 3942` displays that the protocol used on this port is SSDP
 <br>
@@ -47,6 +48,7 @@ Using the display filter `udp.port == 3942` displays that the protocol used on t
 <br><br>
 
 ##### Question 2: What is the IP address of the host that was pinged twice?
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;In order to find ping packets, the associated filter is `icmp` which can be used as a display filter to find which IP address was pinged. Here we can see that ping requests came from 192.168.1.7 and it was pinging 8.8.4.4 and so that is the IP of the host that was pinged which then returned a reply.
 <br>
@@ -55,6 +57,7 @@ Using the display filter `udp.port == 3942` displays that the protocol used on t
 <br><br>
 
 ##### Question 3: How many DNS query response packets were captured?
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;In order to find how many DNS query response packets were received, the first step will be to use the display filter in order to filter for just DNS packets in general by typing `dns` or alternatively, typing `udp.port == 53` (port 53 is associated with DNS) into the field. Next, typing `dns.flags.response == True` will bring up only the DNS packets which contain a response flag which filters out all the query packets.
 <br>
@@ -75,6 +78,7 @@ There are 90 packets displayed with these filters and so that means that there w
 <br><br>
 
 ##### Question 4: What is the IP address of the host which sent the most number of bytes?
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;In order to find the IP address of the host which sent the most number of bytes we must use the Statistics tab and go to Endpoints. In the IPv4 tab within the Endpoints window, it is possible to sort the number of “Tx Bytes” (Transmitted bytes) by clicking on the tab to sort it into descending order. This shows that 115.178.9.18 sent the most bytes at 2MB.
 <br>
