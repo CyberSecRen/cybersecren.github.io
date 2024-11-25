@@ -5,7 +5,7 @@ summary: "Using a Simulated Scenario to Create a Vulnerability Assessment Report
 author: Renato Ferreira
 date: '2024-01-21 14:35:23 +0530'
 category: Vulnerability
-thumbnail: /assets/img/posts/LinuxThumbnail.png
+thumbnail: /assets/img/posts/VulnThumbnail.jpg
 keywords: Vulnerability, report, assessment, framework
 permalink: /blog/vulnreport/
 usemathjax: true
