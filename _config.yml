@@ -10,7 +10,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 urls:
     - text: Home
       url: /
-    - text: About
+    - text: About Me
       url: /about
     - text: Projects
       url: /blog
@@ -26,11 +26,11 @@ urls:
 
 author_logo: profile.png
 author: Renato Ferreira
-author_bio: After completing a cybersecurity course as part of my Police Foundations program and earning my first cybersecurity certification, I committed to furthering my expertise through independent study. I pursued additional certifications to deepen my knowledge and set up a home lab to gain hands-on experience with valuable skills such as virtualization, Windows and Linux configuration, network traffic monitoring, packet analysis, penetration testing and more.
+author_bio: I am an IT Specialist with a strong technical background, actively pursuing a transition into cybersecurity to hone my expertise in protecting and securing digital infrastructures.
 author_email: "renferreira365@gmail.com"
 author_location: Canada
 author_website_url:
-typewrite-text: Welcome to my portfolio!
+typewrite-text: Cambridge, ON
 hero_cover_img: Cover2.png # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
