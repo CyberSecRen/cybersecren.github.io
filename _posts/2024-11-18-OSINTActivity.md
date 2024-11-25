@@ -3,7 +3,7 @@ layout: post
 title:  "Leveraging OSINT Tools for Intelligence Gathering"
 summary: "Using OSINT in Simulated Scenario"
 author: Renato Ferreira
-date: '2024-11-20 14:35:23 +0530'
+date: '2024-11-18 14:35:23 +0530'
 category: OSINT
 thumbnail: /assets/img/posts/OSINTThumbnail.png
 keywords: open-source, intelligence, osint, simulation

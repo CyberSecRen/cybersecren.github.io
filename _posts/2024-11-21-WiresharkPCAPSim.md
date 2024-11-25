@@ -3,7 +3,7 @@ layout: post
 title:  "Wireshark PCAP Analysis Simulation"
 summary: "Using Wireshark to Analyse Packet Activity in Scenario Simulation"
 author: Renato Ferreira
-date: '2024-11-20 14:35:23 +0530'
+date: '2024-11-21 14:35:23 +0530'
 category: Packet_Analysis
 thumbnail: /assets/img/posts/WiresharkThumbnail.png
 keywords: Wireshark, PCAP, analysis, packet analysis
