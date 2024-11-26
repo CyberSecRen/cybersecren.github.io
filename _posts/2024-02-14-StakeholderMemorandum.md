@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Simulated Vulnerability Assessment Report"
-summary: "Using a Simulated Scenario to Create a Vulnerability Assessment Report"
+title:  "Simulated Stakeholder Memorandum"
+summary: "Simulating a Stakeholder Memorandum Using a Scenario"
 author: Renato Ferreira
-date: '2024-01-21 14:35:23 +0530'
+date: '2024-02-14 14:35:23 +0530'
 category: Vulnerability
 thumbnail: /assets/img/posts/MemorandumThumbnail.jpg
 keywords: Vulnerability, report, assessment, framework
-permalink: /blog/vulnreport/
+permalink: /blog/memorandum/
 usemathjax: true
 ---
 
@@ -98,3 +98,4 @@ management
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Overall, many of the current cybersecurity practices need to be implemented and/or revamped in order to meet industry standards as well as comply with various regulations and standards relating to international sales and privacy. There is an extensive list of systems that need to be put into place in order to demonstrate better security posture and to mitigate risk to the company, assets, and people. Some less urgent matters also need to be addressed but they are of lower risk than the ones previously stated.
+<br><br>
